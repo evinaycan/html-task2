@@ -1,6 +1,6 @@
 # html-task2
 
-This is the second repository created for HTML task2. It contains a README and an index.html file. In the website the a general info and interests are mentioned with links. 
+This is the second repository created for HTML task2. It contains a README and an index.html file. In the website general info and interests are mentioned with links. 
 
 ## Interests 
 * Instruments
